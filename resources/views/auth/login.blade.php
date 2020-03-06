@@ -41,7 +41,7 @@
                             <label for="remember-me" class="label-agree-term"><span><span></span></span>Remember me</label>
                         </div>
                         <div class="form-group form-button">
-                            <input type="submit" name="signin" id="signin" class="form-submit" value="Log in"/>
+                            <input type="submit" onclick="store()" name="signin" id="signin" class="form-submit" value="Log in"/>
                         </div>
                             <!-- Enter Forget Password -->
                         @if (Route::has('password.request'))
@@ -50,6 +50,14 @@
                             </a>
                         @endif
                     </form>
+                    <script  type="text/javascript">
+                        function store(){
+                            var inputEmail= document.getElementById("email");
+                            var inputPassword= document.getElementById("password");
+                            localStorage.setItem("email", inputEmail.value);
+                            localStorage.setItem("password", inputPassword.value);
+                        }
+                    </script>
 
                 </div>
             </div>
