@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8816ab01-2ec9-46d6-96cf-55db7fefd336" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +118,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="last_opened_file_path" value="G:/PHP/Template/laravel-vuejs-notes-master/laravel-vuejs-notes-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -157,7 +155,9 @@
       <workItem from="1583429389223" duration="10852000" />
       <workItem from="1583472411738" duration="2644000" />
       <workItem from="1583502438674" duration="2622000" />
-      <workItem from="1583507162583" duration="4558000" />
+      <workItem from="1583507162583" duration="4842000" />
+      <workItem from="1583550185937" duration="297000" />
+      <workItem from="1583604903166" duration="1115000" />
     </task>
     <servers />
   </component>
@@ -169,9 +169,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583433532085" />
-    <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583472419332">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583550481524">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583472419332" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583550481524" />
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583550371466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583550371466" />
   </component>
 </project>
